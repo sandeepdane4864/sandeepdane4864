@@ -82,6 +82,6 @@
 | **More coming soon...** | MERN Stack | Full-stack web apps under development 🚀 |
 
 ---
-<p align="center" padding-right=50px;>
+<p align="center" padding-left="20px";>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C0FF&vCenter=true&multiline=true&width=600&height=80&lines=Let's+build+something+amazing+%F0%9F%9A%80;Keep+Learning.+Keep+Creating." alt="Typing SVG" />
 </p>
