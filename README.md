@@ -47,7 +47,7 @@
 ### 📚 Currently Exploring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,expess,react,nodejs,tailwind,github" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,express,react,nodejs,tailwind,github" />
 </p>
 
 ---
