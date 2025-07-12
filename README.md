@@ -9,7 +9,7 @@
 <img  align="right" alt="Coding" width="400" src="./img.png">
 <p align="left">
 <a href="https://twitter.com/sandeepdane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepdane" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandeep dane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep dane" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandeep-dane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep dane" height="30" width="40" /></a>
 <a href="https://instagram.com/sandeep_dane_4864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep_dane_4864" height="30" width="40" /></a>
 </p>
 
