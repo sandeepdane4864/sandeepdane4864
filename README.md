@@ -17,6 +17,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandeepdane4864&color=blue&style=flat&label=Profile+views" alt="Sandeep Dane Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeep-dane" target="_blank">
+    <img src="https://img.shields.io/badge/FOLLOW%20%40Sandeep%20Dane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow @Sandeep Dane on LinkedIn" />
+  </a>
+</p>
+
 ### 🌐 Connect with Me
 
 <p align="left">
