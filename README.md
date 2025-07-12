@@ -6,7 +6,7 @@
 - 📫 How to reach me **sandeepdane4864@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img  align="right" alt="Coding" width="400" src="./img.png">
+<img  align="right" alt="Coding" width="400" src="img.png">
 <p align="left">
 <a href="https://twitter.com/sandeepdane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepdane" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandeep-dane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep dane" height="30" width="40" /></a>
