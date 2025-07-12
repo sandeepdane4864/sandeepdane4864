@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Sandeep Dane</h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack Learner | DSA in Java | Dreaming & Building from India 🇮🇳</h3>
+<h3 align="center">🚀 Frontend Developer | MERN Stack Learner | DSA in Java | Dreaming & Building from India</h3>
 
 <p align="center">
   <img src="img.png" alt="Sandeep Coding" width="60%" style="border-radius:10px; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
@@ -39,7 +39,7 @@
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,bootstrap,c,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,java,mysql,bootstrap,c,git" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ### 📚 Currently Exploring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,redux,typescript,tailwind,docker,github" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,expessjs,reactjs,nodejs,tailwind,github" />
 </p>
 
 ---
@@ -69,18 +69,9 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | **Nike Landing Page** | HTML, CSS, JavaScript | A clean and responsive landing page for Nike product |
-| **Portfolio Website** | React, TailwindCSS | Showcases my skills, projects, and contact info |
 | **More coming soon...** | MERN Stack | Full-stack web apps under development 🚀 |
 
 ---
-
-### 🎨 Signature Style
-
-> Passion for design + logic = beautiful, functional web experiences.  
-> I’m a **code + coffee + Krishna Bhakti** kind of developer ☕🙏
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C0FF&vCenter=true&multiline=true&width=600&height=80&lines=Let's+build+something+amazing+%F0%9F%9A%80;Keep+Learning.+Keep+Creating." alt="Typing SVG" />
 </p>
