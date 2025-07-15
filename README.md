@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 I’m currently learning **MERN Stack** and **DSA in Java**
-- 🧠 Always exploring in **React.js, Node.js, Express, MongoDB**
+- 🧠 Exploring in **React.js, Node.js, Express, MongoDB**
 - 📫 Reach me at: **sandeepdane4864@gmail.com**
 - ⚡ Fun fact: I love combining **creativity & logic** to build magical UIs ✨
 
