@@ -79,6 +79,7 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | **Nike Landing Page** | HTML, CSS, JavaScript | A clean and responsive landing page for Nike product |
+| **Chatify-A-Simple-Chat-Application** | Node.js, Express.js, MongoDB, EJS, HTML, CSS |a CRUD-based chat application that lets users create, view, edit, and delete messages. |
 | **More coming soon...** | MERN Stack | Full-stack web apps under development 🚀 |
 
 ---
