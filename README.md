@@ -10,10 +10,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **MERN Stack** and **DSA in Java**
+- I’m currently learning **MERN Stack** and **DSA in Java**
 - 🧠 Exploring in **React.js, Node.js, Express, MongoDB**
 - 📫 Reach me at: **sandeepdane4864@gmail.com**
-- ⚡ Fun fact: I love combining **creativity & logic** to build magical UIs ✨
+- ⚡I love combining **creativity & logic** to build magical UIs ✨
 
 ---
 
@@ -80,6 +80,7 @@
 |--------|------------|-------------|
 | **Nike Landing Page** | HTML, CSS, JavaScript | A clean and responsive landing page for Nike product |
 | **Chatify-A-Simple-Chat-Application** | Node.js, Express.js, MongoDB, EJS, HTML, CSS |a CRUD-based chat application that lets users create, view, edit, and delete messages. |
+| **Xplore : Find & Book Your Stay** | currently ongoing ... |
 | **More coming soon...** | MERN Stack | Full-stack web apps under development 🚀 |
 
 ---
