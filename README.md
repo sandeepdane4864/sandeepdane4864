@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Dane</h1>
 <h3 align="center">🚀 Frontend Developer | MERN Stack Learner | DSA in Java | Dreaming & Building from India</h3>
 
-<p align="center">
-  <img src="img.png" alt="Sandeep Coding" width="40%" style="border-radius:10px; box-shadow:0 0 15px rgba(0,0,0,0.2);" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
