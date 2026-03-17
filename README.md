@@ -1,15 +1,17 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Sandeep Dane</h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack Learner | DSA in Java | Dreaming & Building from India</h3>
+<h3 align="center">MERN Stack Developer • DSA in Java (Learner) • Pune, India </h3>
+
 
 ---
 
 ### 🧑‍💻 About Me
 
-- I’m currently learning **MERN Stack** and **DSA in Java**
-- 🧠 Exploring in **React.js, Node.js, Express, MongoDB**
-- 📫 Reach me at: **sandeepdane4864@gmail.com**
-- ⚡I love combining **creativity & logic** to build magical UIs ✨
+- Bachelor of Engineering in Computer Engineering (2023–2027) at **KJ College of Engineering and Management Research**, Pune  
+- Currently learning **MERN Stack** and **DSA in Java**  
+- Exploring **React.js, Node.js, Express.js, MongoDB**  
+- Passionate about creating **clean, interactive, and user-friendly UIs** ✨  
+- 📫 Reach me at: **sandeepdane4864@gmail.com** | 📞 +91 7559343669  
 
 ---
 
@@ -23,6 +25,66 @@
   </a>
 </p>
 
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,java,mysql,bootstrap,react,c,git" />
+</p>
+
+---
+
+### 📚 Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,github" />
+</p>
+
+---
+
+### 🛠️ Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **Xplore: Find & Book Your Stay** | HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Mongoose, Passport.js, EJS, Bootstrap | Full-stack accommodation booking platform with user authentication, CRUD operations, email notifications, Stripe integration, search, pagination, and profile management. (In development) |
+| **Chatify: Real-Time Chat App** | Node.js, Express.js, MongoDB, Mongoose, EJS, HTML, CSS, Socket.io | Web-based chat app with real-time messaging and full CRUD operations, featuring a responsive user interface. |
+| **Nike Landing Page** | HTML, CSS, JavaScript | Responsive landing page for Nike products with clean UI. |
+| **More coming soon...** | MERN Stack | Full-stack web apps under development 🚀 |
+
+---
+
+<p align="center" padding-left="40px";>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C0FF&vCenter=true&multiline=true&width=600&height=80&lines=Let's+build+something+amazing+%F0%9F%9A%80;Keep+Learning.+Keep+Creating." alt="Typing SVG" />
+</p>
+
+---
+
+### 🎓 Education
+
+- **KJ College of Engineering and Management Research, Pune** – B.E. in Computer Engineering (2023–2027) | SGPA: 8.43  
+- **Yashwant Mahavidyalaya, Nanded** – XII Science, Maharashtra State Board (2021–2023)  
+- **Matrix High School, Varni** – X, Telangana State Board (2021)  
+
+---
+
+### 💼 Experience
+
+**Software Development Intern – CodeIT Infotech Pvt Ltd, Pune**  
+*Feb 2026 – Present*  
+- Collaborating in project discussions and sprint planning  
+- Assisting in system architecture and workflow analysis  
+- Evaluating suitable technologies and frameworks for development  
+
+---
+
+### 🌱 Extra-Curricular Activities
+
+**National Service Scheme (NSS) Volunteer**  
+- Participated in rural NSS camp: organized educational, cleanliness, tree plantation, and health awareness activities  
+- Developed leadership, teamwork, and public speaking skills
+---
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -38,48 +100,4 @@
   <a href="mailto:sandeepdane4864@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
----
-
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,java,mysql,bootstrap,c,git" />
-</p>
-
----
-
-### 📚 Currently Exploring
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,express,react,nodejs,tailwind,github" />
-</p>
-
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepdane4864&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepdane4864&layout=compact" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepdane4864" height="150"/>
-</p>
-
----
-
-### 🛠️ Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **Nike Landing Page** | HTML, CSS, JavaScript | A clean and responsive landing page for Nike product |
-| **Chatify-A-Simple-Chat-Application** | Node.js, Express.js, MongoDB, EJS, HTML, CSS |a CRUD-based chat application that lets users create, view, edit, and delete messages. |
-| **Xplore : Find & Book Your Stay** | currently ongoing ... |
-| **More coming soon...** | MERN Stack | Full-stack web apps under development 🚀 |
-
----
-<p align="center" padding-left="20px";>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C0FF&vCenter=true&multiline=true&width=600&height=80&lines=Let's+build+something+amazing+%F0%9F%9A%80;Keep+Learning.+Keep+Creating." alt="Typing SVG" />
 </p>
