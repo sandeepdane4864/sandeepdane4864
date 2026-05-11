@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Sandeep Dane</h1>
-<h3 align="center">MERN Stack Developer • DSA in Java (Learner) • Pune, India </h3>
+<h3 align="center">MERN Stack Developer • Pune, India </h3>
 
 
 ---
